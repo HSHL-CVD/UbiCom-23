@@ -1,0 +1,5 @@
+{
+    "board": "arduino:mbed_nano:nanorp2040connect",
+    "sketch": "flash-rp2040.ino",
+    "port": "/dev/tty.usbmodem1101"
+}
